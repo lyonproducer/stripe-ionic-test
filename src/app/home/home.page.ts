@@ -15,7 +15,7 @@ import { environment } from 'src/environments/environment';
 export class HomePage {
   data: any = {
     name: 'Leonardo',
-    email: 'hernandezleonardo085@gmail.com',
+    email: 'lyonproducer@gmail.com',
     amount: 100,
     currency: 'usd'
   };
