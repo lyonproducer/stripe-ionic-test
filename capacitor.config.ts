@@ -2,7 +2,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
-  appName: 'atripe-lyon',
+  appName: 'Stripe Lyon',
   webDir: 'www',
   server: {
     androidScheme: 'https'
